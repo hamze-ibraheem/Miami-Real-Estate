@@ -1,0 +1,6 @@
+{
+  "name": "Miami Real Estate",
+  "description": "Professional luxury real estate agency in Miami Beach, FL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
