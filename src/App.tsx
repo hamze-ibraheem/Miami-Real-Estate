@@ -523,6 +523,17 @@ export default function App() {
         </div>
       </footer>
 
+      {/* Floating CTA */}
+      <a 
+        href="https://auroraadv.co/?tab=wizard" 
+        target="_blank" 
+        rel="noopener noreferrer"
+        className="fixed bottom-6 right-6 z-50 bg-[#C5A059] text-white rounded-full w-[130px] h-[130px] flex items-center justify-center text-center p-4 shadow-2xl hover:bg-[#1A2E44] transition-all duration-500 hover:-translate-y-1 hover:shadow-3xl border-4 border-[#FDFCFB]/50"
+      >
+        <span className="text-[10px] font-bold uppercase tracking-widest leading-relaxed">
+          Get this<br/>website<br/>for only<br/><span className="text-lg mt-1 block">$999</span>
+        </span>
+      </a>
     </div>
   );
 }
